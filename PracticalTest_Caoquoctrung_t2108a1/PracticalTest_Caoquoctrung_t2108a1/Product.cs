@@ -18,15 +18,7 @@ namespace PracticalTest_Caoquoctrung_t2108a1
             this.productName = productName;
             this.price = price;
         }
-        public void Input()
-        {
-            Console.WriteLine("Please, Enter Product's Id: ");
-            int id=int.Parse(Console.ReadLine());
-            Console.WriteLine("Please, Enter Product's Name: ");
-            string name=Console.ReadLine();
-            Console.WriteLine("Please, Enter Product's Price: ");
-            double price=double.Parse(Console.ReadLine());
-        }
+    
         public void Display()
         {
             Console.WriteLine(this);
@@ -35,7 +27,7 @@ namespace PracticalTest_Caoquoctrung_t2108a1
 
         public override string ToString()
         {
-            return String.Format("Product's ID: {0} || Product's Name: {1} || Product's Price: {2,6:C}", productId, productName, price);
+            return String.Format("Product's ID: {0} \t Product's Name: {1} \t Product's Price: {2,6:C}\n", productId, productName, price);
         }
     }
 }
