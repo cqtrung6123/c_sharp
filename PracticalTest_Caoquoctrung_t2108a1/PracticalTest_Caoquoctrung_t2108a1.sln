@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalTest_Caoquoctrung_t2108a1", "PracticalTest_Caoquoctrung_t2108a1\PracticalTest_Caoquoctrung_t2108a1.csproj", "{C224FF05-F808-45F4-9052-AED97C7CA72E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C224FF05-F808-45F4-9052-AED97C7CA72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C224FF05-F808-45F4-9052-AED97C7CA72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C224FF05-F808-45F4-9052-AED97C7CA72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C224FF05-F808-45F4-9052-AED97C7CA72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC5BC38-F86D-43CF-92C0-9ACC867A478C}
+	EndGlobalSection
+EndGlobal
